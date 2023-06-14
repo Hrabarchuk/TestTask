@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ptp2o+qeBIO79OKiLpU4quvRxmF4WPj/aAREI+7vbuhj0345rtbJp7eWCeVRUI4B+i4BtlyyI6RjTt6hHr/Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bohdan\\source\\repos\\TestTask\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bohdan\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
